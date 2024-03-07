@@ -16,7 +16,7 @@ function Home() {
                 
                 <div >
                     
-                <img className="text-center" style={{ marginLeft:"830px", width: "10%" }} src={onLine}></img>
+                <img className="text-center" style={{ marginLeft:"1030px", width: "10%" }} src={onLine}></img>
                     <p style={{ textAlign:"center", fontFamily:"cursive",color:"green"}}><b>The new way to buy<br></br> your groceries from the <br></br>comfort of your Sofa<br></br>
                                          </b>  </p>
                 </div>
@@ -28,7 +28,7 @@ function Home() {
                 </div>
 
                 <div>
-                    <img classNmae="text-center" style={{ marginLeft:"830px",width: "10%" }} src={priceMatch}></img>
+                    <img className="text-center" style={{ marginLeft:"830px",width: "10%" }} src={priceMatch}></img>
                     {/* <p>Here to help with the cost of living!</p> */}
                 </div>
                 <div>

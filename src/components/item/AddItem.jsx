@@ -28,7 +28,8 @@ function AddItem() {
                             setItemPrice("");
                             setItemQuantity("");
                             // navigate("http://localhost:8080/cart/get/" + params.id)
-                            navigate(-1)
+                            // navigate(-1)
+                            window.location.reload();
 
 
                         })
