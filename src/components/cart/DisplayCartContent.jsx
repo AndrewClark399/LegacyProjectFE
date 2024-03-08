@@ -55,7 +55,7 @@ function DisplayCartContent() {
     return (
         <div>
 
-            <div style={{ backgroundColor: "#fcc72b", width: "100%", height:"1000px" }}>
+            <div style={{ backgroundColor: "#fcc72b", width: "100%", height:"1400px" }}>
                 <br></br>
                 <div style={{backgroundColor:"white", marginLeft:"10px", marginRight:"10px"}}><h3> Contents of Cart :{params.id}&nbsp;&nbsp;<img style={{ width: "3%" }} src={userLogo}></img>{buyer}</h3>
                 </div>

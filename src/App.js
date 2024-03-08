@@ -18,9 +18,9 @@ function App() {
     <body>
       <div>
         <BrowserRouter>
-          {/* <nav className="navbar align-content-center " style={{ display: "flex", backgroundColor: "#526899", }}> */}
+        
 
-          <nav className="navbar align-content-center " style={{ display: "flex", backgroundColor: "  #00450a" }}>
+          <nav className="navbar align-content-center " style={{ display: "flex", backgroundColor: "  #00450a",   }}>
             <div>
 
               <div className="homeimage"></div>
