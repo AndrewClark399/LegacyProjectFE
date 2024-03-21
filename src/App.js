@@ -19,9 +19,9 @@ function App() {
     <body>
       <div>
         <BrowserRouter>
-          {/* <nav className="navbar align-content-center " style={{ display: "flex", backgroundColor: "#526899", }}> */}
+        
 
-          <nav className="navbar align-content-center " style={{ display: "flex", backgroundColor: "  #00450a" }}>
+          <nav className="navbar align-content-center " style={{ display: "flex", backgroundColor: "  #00450a",   }}>
             <div>
 
               <div className="homeimage"></div>
@@ -30,8 +30,8 @@ function App() {
               <Link to='/cart'><button type="button" className="btn btn-success" style={{ margin: "10px", color: "#fdc1da" }}><strong>Cart</strong></button></Link>
               <Link to='/item'><button type="button" className="btn btn-success" style={{ margin: "10px", color: "#fdc1da" }}><strong>Item</strong></button> </Link>
               <Link to='/shopping'><button type="button" className="btn btn-success" style={{ margin: "10px", color: "#fdc1da" }}><strong>Shopping</strong></button> </Link>
-              <p style={{ float: "inline-end", textAlign: "end", fontFamily: "cursive", color: "#fdc1da" }}><b>Here to help with the cost of living!</b></p>
-              {/* <img class="text-center" style={{ width: "20%", marginLeft: "600px" }} src={homeLogo}></img> */}
+              <p style={{ float: "inline-end", textAlign: "right", fontFamily: "cursive", color: "#fdc1da" }}><b>Here to help with the cost of living!</b></p>
+             
             </div>
 
           </nav>

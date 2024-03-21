@@ -25,15 +25,13 @@ function CartStructure(props) {
 
     return (
         <div>
-            {/* <div className="row row-cols-1 row-cols-md-3 g-4">
-            <div className="col"> */}
+           
     
            
 
 
             <div className="d-inline-flex " style={{ maxWidth: "70%", margin: "40px"  }}>
-            {/* <div class="container"> 
-            <div class="row"> */}
+            
             
 
                  <div className="card" > 
